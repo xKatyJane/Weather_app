@@ -95,7 +95,6 @@
   "8002": "Mostly Cloudy and Thunderstorm",
   "8000": "Thunderstorm"
 },
-
 "weatherCodeDay":{
   "0": "Unknown",
   "10000": "Clear, Sunny",
@@ -192,7 +191,6 @@
   "80020": "Mostly Cloudy and Thunderstorm",
   "80000": "Thunderstorm"
 },
-
 "weatherCodeNight":{
   "0": "Unknown",
   "10001": "Clear",
