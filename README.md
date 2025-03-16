@@ -30,3 +30,8 @@ Once the file is replaced, you can run the main.py script that will open the app
 ![Alt text](https://raw.githubusercontent.com/xKatyJane/Weather_app/main/Screenshots/Main_menu.png)
 
 <img src="(https://raw.githubusercontent.com/xKatyJane/Weather_app/main/Screenshots/Main_menu.png)" width="800">
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xKatyJane/Weather_app/main/Screenshots/Main_menu.png" width="800">
+</p>
