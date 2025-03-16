@@ -27,10 +27,16 @@ Once the file is replaced, you can run the main.py script that will open the app
 
 ## Screenshots
 
+#### The interface on opening.
 <p align="center">
   <img src="https://raw.githubusercontent.com/xKatyJane/Weather_app/main/Screenshots/Main_menu.png" width="650">
 </p>
 
+#### The search results.
 <p align="center">
   <img src="https://raw.githubusercontent.com/xKatyJane/Weather_app/main/Screenshots/Search_result_1.png" width="650">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xKatyJane/Weather_app/main/Screenshots/Search_result_2.png" width="650">
 </p>
