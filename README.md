@@ -17,10 +17,14 @@ https://app.tomorrow.io/signin
 
 You can save your credentials into a JSON file in this format:
 
-{
+<code style="color : #00acc1">{
     "apikey" : "......................."
-}
+}</code>
 
 Replace my JSON file with yours in line 60 of the main.py file.
 
 Once the file is replaced, you can run the main.py script that will open the app.
+
+## Screenshots
+
+![Alt text]([image-url](https://github.com/xKatyJane/Weather_app/blob/main/Screenshots/Main_menu.png))
