@@ -17,9 +17,7 @@ https://app.tomorrow.io/signin
 
 You can save your credentials into a JSON file in this format:
 
-<code style="color : #00acc1">{
-    "apikey" : "......................."
-}</code>
+<code style="color : #00acc1">{ "apikey" : "......................." }</code>
 
 Replace the path to the JSON file with credentials in line 60 of the main.py file.
 
@@ -43,10 +41,10 @@ Once the file is replaced, you can run the main.py script and that will open the
 
 ## Python packages used
 
--**API requests**: Requests
--**Interface**: TK Inter
--**Image management**: PIL
--**Date, time, timezone**: Datetime, Pytz, Timezone Finder
+- **API requests**: Requests
+- **Interface**: TK Inter
+- **Image management**: PIL
+- **Date, time, timezone**: Datetime, Pytz, Timezone Finder
 
 ## Tomorrow.io data usage
 
