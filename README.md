@@ -1,6 +1,6 @@
 # Weather App
 
-This weather app has been built in Python with TK Inter and it is based on data received from the tomorrow.io API.
+This weather app has been built in Python with Tkinter and it is based on data received from the tomorrow.io API.
 
 ## Resources
 
@@ -42,7 +42,7 @@ Once the file is replaced, you can run the main.py script and that will open the
 ## Python packages used
 
 - **API requests**: Requests
-- **Interface**: TK Inter
+- **Interface**: Tkinter
 - **Image management**: PIL
 - **Date, time, timezone**: Datetime, Pytz, Timezone Finder
 
