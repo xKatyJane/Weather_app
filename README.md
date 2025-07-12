@@ -15,13 +15,13 @@ pip install requests
 To use the app you need to obtain a free API key from tomorrow.io. You can register here:
 https://app.tomorrow.io/signin
 
-You can save your credentials into a JSON file, using "apikey" as a key:
+You can save your credentials in a JSON file, using "apikey" as a key:
 
 <code style="color : #00acc1">{ "apikey" : "......................." }</code>
 
-Replace the path to the JSON file with credentials in line 60 of the main.py file.
+Replace the path to the JSON file in line 60 of the main.py, by linking your file with credentials.
 
-Once the file is replaced, you can run the main.py script and that will open the app.
+Once the file is replaced, you can run the main.py script.
 
 ## Screenshots
 
